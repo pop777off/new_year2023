@@ -1,0 +1,29 @@
+header{
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+    text-decoration: none;
+    margin: 25px;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+ol{
+    border: 1px solid black;
+}
+
+ul{
+    list-style-type: square;
+}
