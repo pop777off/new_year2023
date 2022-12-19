@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+}
+
+header a{
+    border: 2px solid blue;
+    text-decoration: none;
+    background-color: mediumblue;
+    color: white;
+    border-radius: 5px;
+    padding:2px;
+
+}
+
